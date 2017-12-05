@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0803c74e-b492-4db1-ad86-a0f8ee7047c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/screenSaver/PeriodicalScopeConfigurer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/screenSaver/CustomScopeRegistryBeanFactoryPostProcessor.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/DepricatedClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/DepricationHandlerBeanFactoryPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/InjectRandomInt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/InjectRandomIntAnnotationPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/PostProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/PostProxyInvokerContextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/Profiling.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/ProfilingHandlerBeanPostProcessor$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/ProfilingHandlerBeanPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/ProfillingController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/ProfillingControllerMBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/PropertyFileApplicationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/Quoter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/T1000.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/quoters/TerminatorQuoter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/screenSaver/ColorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/screenSaver/Config$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/screenSaver/Config.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EpamSpringBorisov.iml" afterPath="$PROJECT_DIR$/EpamSpringBorisov.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/screenSaver/Config.java" afterPath="$PROJECT_DIR$/src/main/java/screenSaver/Config.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,41 +39,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/context.xml">
+      <file leaf-file-name="CustomScopeRegistryBeanFactoryPostProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/CustomScopeRegistryBeanFactoryPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+              <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/quoters/Main.java">
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="context.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/context.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PropertyFileApplicationContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/quoters/PropertyFileApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="176">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -64,51 +74,20 @@
       <file leaf-file-name="TerminatorQuoter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
+            <state relative-caret-position="-242">
               <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="e#407#408#0" expanded="false" />
-                <element signature="e#452#453#0" expanded="false" />
-                <element signature="e#498#499#0" expanded="false" />
-                <element signature="e#536#537#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ColorFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/ColorFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PeriodicalScopeConfigurer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PeriodicalScopeConfigurer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/PeriodicalScopeConfigurer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="594">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1075#1076#0" expanded="true" />
-                <element signature="e#1227#1228#0" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-                <element signature="e#1336#1337#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,16 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DepricationHandlerBeanFactoryPostProcessor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/quoters/DepricationHandlerBeanFactoryPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="17" column="82" lean-forward="false" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -182,8 +151,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/context.properties" />
         <option value="$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java" />
         <option value="$PROJECT_DIR$/src/main/java/screenSaver/ColorFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/screenSaver/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/screenSaver/PeriodicalScopeConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quoters/CustomScopeRegistryBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/screenSaver/CustomScopeRegistryBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/screenSaver/Config.java" />
       </list>
     </option>
   </component>
@@ -331,6 +303,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpamSpringBorisov" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpamSpringBorisov" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -339,7 +325,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -365,7 +351,7 @@
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="quoters.*" />
+          <option name="PATTERN" value="screenSaver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,7 +371,7 @@
     <configuration default="false" name="PropertyFileApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="quoters.*" />
+          <option name="PATTERN" value="screenSaver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,12 +652,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43137255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2990196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2990196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17776097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1044,14 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/quoters/T1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quoters/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1076,19 +1054,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#452#453#0" expanded="false" />
-            <element signature="e#498#499#0" expanded="false" />
-            <element signature="e#536#537#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/ColorFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1097,27 +1062,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/Config.java">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="176">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quoters/T1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/PeriodicalScopeConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="594">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1227#1228#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/CustomScopeRegistryBeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/screenSaver/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
